@@ -1,10 +1,9 @@
 ---
-author: Carnegie Mellon University
-title: alice
-image_url: /images/alice.png
-caption: 'Η Alice είναι ένα καινοτόμο περιβάλλον προγραμματισμού, βασισμένο στο blog-based programming, το οποίο  προσφέρει στους  χρήστες  ένα εύχρηστο εργαλείο ώστε να δημιουργήσουν κινούμενα σχέδια, διαδραστικές αφηγήσεις και  3D παιχνίδια. '
-license_url: 'https://commons.wikimedia.org/wiki/File:Screen_Shot_of_an_alice_world.png'
-license_text: Carnegie Mellon University
+author: epidrome
+image_url: /images/app.png
+title: app
+caption: Οι πρώτες εφαρμογές επεξεργασίας εικόνας είχαν τη δική τους γραφική διεπαφή με τον χρήστη, αφού το κυρίαρχο λειτουργικό σύστημα της εποχής MS-DOS δεν είχε ακόμη γραφική διεπαφή, με αποτέλεσμα να υπάρχει μεγάλη ασυνέπεια ακόμη και σε οριζόντιες λειτουργίες (π.χ., παράθυρα, αποθήκευση, κτλ.) ανάμεσα στις διαφορετικές εφαρμογές.
 categories:
-  - tools
+  - preface
 ---
+
