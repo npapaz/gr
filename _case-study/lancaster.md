@@ -1,7 +1,7 @@
 ---
 author: lancaster university
 title: "Guide"
-image_url: /images/weiser-tab-pad-board.png
+image_url: /images/lancaster_University_7.png
 caption: "Ο τουριστικός οδηγός ήταν η πρώτη ηλεκτρονική εφαρμογή που ενσωμάτωσε την microcellular επικοινωνία για να καθορίσει την τοποθεσία του χρήστη."
 categories:
   - case-study
