@@ -14,6 +14,6 @@ gallery:
 
 ---
 
-{% include_relative lancasterquide.md %}
+{% include_relative lancasterguide.md %}
 
 {% include slides.html %}
