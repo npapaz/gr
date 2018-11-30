@@ -15,5 +15,3 @@ gallery:
 ---
 
 {% include_relative lancasterguide.md %}
-
-{% include slides.html %}
