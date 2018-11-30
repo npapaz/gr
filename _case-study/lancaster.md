@@ -5,7 +5,7 @@ image_url: /images/weiser-tab-pad-board.png
 caption: "Ο τουριστικός οδηγός ήταν η πρώτη ηλεκτρονική εφαρμογή που ενσωμάτωσε την microcellular επικοινωνία για να καθορίσει την τοποθεσία του χρήστη."
 categories:
   - case-study
-   - success
+  - success
 tags:
   - Xerox PARC
 gallery:
@@ -14,4 +14,3 @@ gallery:
   ---
 
 {% include_relative lancasterquide.md %}
-
